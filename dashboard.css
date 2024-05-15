@@ -1,0 +1,34 @@
+.sidebar {
+  height: 100vh;
+  background-color: #7163ba;
+  position: relative;
+}
+.menu-item {
+  height: 70px;
+}
+.active {
+  background-color: rgba(240, 248, 255, 0.499);
+}
+.logout {
+  position: absolute;
+  bottom: 0%;
+  right: 40%;
+}
+.profile-img{
+    height: 40px;
+}
+.main-bg{
+    background-color: #ebebec;
+}
+.statistics{
+    height: 30vh;
+    background-color: white;
+}
+.updates{
+    color: #7163ba;
+    font-weight: 600;
+}
+.box{
+    background-color: #f9e9ea;
+    height: 140px;
+}
